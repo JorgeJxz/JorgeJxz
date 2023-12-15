@@ -1,4 +1,4 @@
-## Epale mis panas(hello 😁) 🤟
+## Epale mis panas (hello 😁) 🤟
 
 I'm Jorhe Andrés a front-End Developer from Venezuela🇻🇪 living in Alicante/Spain🇪🇸
 
@@ -26,7 +26,11 @@ I'm currently working at 📱[BBVA](https://www.bbva.es/personas.html) as a full
 #### You can also find me on:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorhegf?originalSubdomain=es)
 
+[![Twitter](https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/Jorgejxz)
+
 [![CodeWars](https://www.codewars.com/users/JorgeJxz/badges/small)](https://www.codewars.com/users/JorgeJxz)
+
+
 
 <!--
   TO-DO: Resume landing page
