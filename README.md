@@ -15,7 +15,7 @@ I'm currently working at 📱[BBVA](https://www.bbva.es/personas.html) as a full
 #### Daily use:
 ![Elm](https://img.shields.io/badge/ELM-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![Polymer](https://img.shields.io/badge/polymerproject-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
+![Polymer](https://img.shields.io/badge/POLYMERPROYECT-c90076?style=for-the-badge&logo=polymerproject&logoColor=white)
 
 #### Currently learning:
 ![Elm](https://img.shields.io/badge/ELM-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
