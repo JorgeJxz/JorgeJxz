@@ -1,7 +1,8 @@
-## Epale mis panas🤟
+## Epale mis panas 🤟
 
-I'm Jorhe Andrés a front-End Developer from Venezuela 🇻🇪 living in Alicante/Spain
-I like to think that programming is the closest thing we have to a superpower🚀, so like many fantasy characters you can find me training💪 around here.🥷[CodeWars]([https://www.codewars.com/users/JorgeJxz]).
+I'm Jorhe Andrés a front-End Developer from Venezuela🇻🇪 living in Alicante/Spain🇪🇸
+
+I like to think that programming is the closest thing we have to a superpower🚀, so like many fantasy characters you can find me training💪 around here.🥷[CodeWars](https://www.codewars.com/users/JorgeJxz).
 
 I've been a JavaScript enthusiast my whole career but I'm transitioning into a more *functional programming* approach on things.
 
@@ -22,7 +23,7 @@ I'm currently working at 📱[BBVA](https://www.bbva.es/personas.html) as a full
 
 #### You can also find me on:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorhegf?originalSubdomain=es)
-[![CodeWars](https://www.codewars.com/users/puruwin/badges/small)](https://www.codewars.com/users/JorgeJxz)
+[![CodeWars](https://www.codewars.com/users/JorgeJxz/badges/small)](https://www.codewars.com/users/JorgeJxz)
 
 <!--
   TO-DO: Resume landing page
