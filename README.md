@@ -22,7 +22,7 @@ I'm currently working at 📱[BBVA](https://www.bbva.es/personas.html) as a full
 ![Elm](https://img.shields.io/badge/ELM-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
 ![Haskell](https://img.shields.io/badge/HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=puruwin&layout=compact&theme=synthwave)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=JorgeJxz&layout=compact&theme=synthwave)
 
 #### You can also find me on:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorhegf?originalSubdomain=es)
