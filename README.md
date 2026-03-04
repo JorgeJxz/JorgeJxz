@@ -1,38 +1,64 @@
-## Hello 😄
+# 👋 Hi, I'm Jorhe
 
-I'm Jorhe Andrés a front-End Developer from Venezuela🇻🇪 living in Alicante/Spain🇪🇸
+Front-End Developer focused on building modern, efficient, and user-centered web applications. I have professional experience collaborating on projects for large-scale companies such as BBVA and Telefónica, along with a strong interest in data-driven development through personal Python and Data Science projects.
 
-I like to think that programming is the closest thing we have to a superpower🚀, so like many fantasy characters you can find me training💪 around here 🌟 [CodeWars](https://www.codewars.com/users/JorgeJxz).
+---
+
+## 🚀 About Me
+
+- 💻 Front-End Developer with real-world enterprise project experience  
+- 🏢 Experience working on projects for **BBVA**, **Telefónica**, and other large environments  
+- 🧠 Passionate about clean UI, performance, and scalable architecture  
+- 📊 Expanding skills in **Python** and **Data Science** through personal projects  
+- 📚 Continuous learner focused on improving both technical and analytical skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Front-End
+- HTML5  
+- CSS3 / Sass  
+- JavaScript (ES6+)  
+- TypeScript  
+- React  
+- Responsive Design  
+- REST APIs  
+
+### Programming & Data
+- Python  
+- Data Analysis (Pandas, NumPy)  
+- Data Visualization  
+- Basic Machine Learning concepts  
+
+### Tools & Workflow
+- Git & GitHub  
+- Agile environments  
+- Component-based architecture  
+- Performance optimization
+
+---
+
+## 📂 Featured Work
+
+- Enterprise-level front-end collaboration projects
+- Personal Data Science and Python experiments
+- UI-focused web applications emphasizing usability and performance
+
+*(Repositories below showcase practical implementations and ongoing learning.)*
+
+---
+
+## 🎯 Goals
+
+- Build scalable and maintainable front-end architectures  
+- Combine front-end development with data-driven solutions  
+- Continue growing in modern web technologies and data science
+
+---
+
+## 📫 Contact
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jorhegf/)
 
 ![Alt Text](https://media.giphy.com/media/Pb2sqf9IYNeUAeX3VS/giphy.gif)
 
-I've been a JavaScript enthusiast my whole career but I'm transitioning into a more *functional programming* approach on things.
-
-I'm currently working at 📱[BBVA](https://www.bbva.es/personas.html) as a front-end developer.
-
-
-### My tech stack 🛠
-#### Daily use:
-![Elm](https://img.shields.io/badge/ELM-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![lit](https://img.shields.io/badge/LIT-06e6ff?style=for-the-badge&logo=lit&logoColor=white)
-![Polymer](https://img.shields.io/badge/POLYMER-c90076?style=for-the-badge&logo=polymerproject&logoColor=white)
-
-#### Currently learning:
-![Elm](https://img.shields.io/badge/ELM-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
-![Haskell](https://img.shields.io/badge/HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=JorgeJxz&layout=compact&theme=synthwave)
-
-#### You can also find me on:
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorhegf?originalSubdomain=es)
-
-[![Twitter](https://img.shields.io/badge/TWITTER-3d85c6?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jorgejxz)
-
-[![CodeWars](https://www.codewars.com/users/JorgeJxz/badges/small)](https://www.codewars.com/users/JorgeJxz)
-
-
-
-<!--
-  TO-DO: Resume landing page
--->
